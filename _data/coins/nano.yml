@@ -10,5 +10,5 @@ wealth_distribution_source: https://nanocrawler.cc/explorer/accounts/1
 client_codebases: 1 
 client_codebases_source: https://nanonode.ninja/statistics/versions
 public_nodes: 548
-public_nodes_source: https://nano.meltingice.net/status
+public_nodes_source: https://nanocrawler.cc/status
 notes: The "Official Representatives" are run by the developers, hence can be collapsed to represent a single entity
